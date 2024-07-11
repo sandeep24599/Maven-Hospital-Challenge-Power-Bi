@@ -5,4 +5,4 @@ How long are patients staying in the hospital, on average?
 How much is the average cost per visit?
 How many procedures are covered by insurance?
 
-## A challange Maven Analyticals
+## A case study by Maven Analyticals
